@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+    <Config>
+      <ExperimentName>Experiment</ExperimentName>
+      <PopulationSize>6</PopulationSize>
+      <SpecieCount>6</SpecieCount>
+      <Activation>
+        <Scheme>Acyclic</Scheme>
+      </Activation>
+      <ComplexityRegulationStrategy>Absolute</ComplexityRegulationStrategy>
+      <ComplexityThreshold>10</ComplexityThreshold>
+      <Description>Created characters learn to walk</Description>
+    </Config>
